@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Creative bakery landing page
+ - [DEMO LINK](https://cxrmx.github.io/miami-landing/)
+
+# Implementeated technologies
+ - HTML5, SCSS, Flex-box, Grid, JavaScript
+ - BEM, Gulp
+ - Responsive design
